@@ -1,0 +1,33 @@
+Metadata-Version: 2.2
+Name: AirSeaFluxCode
+Version: 1.1.0
+Summary: A package to compute turbulent surface fluxes
+Home-page: https://git.noc.ac.uk/NOCSurfaceProcesses/AirSeaFluxCode
+Author: Stavroula Biri
+Author-email: sbiri@noc.ac.uk
+License: CCBY
+Project-URL: Bug Tracker, https://github.com/NOCSurfaceProcesses/AirSeaFluxCode/issues
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: CCBY License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
+
+Description
+AirSeaFluxCode is a python 3.6 software designed to allow easy exploration of the different bulk formulae parameterizations and the wide range of implementation options.
