@@ -1,6 +1,6 @@
 # C1D PAPA32 Bulk
 
-`DOI.XXXX.XXXX`
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15045098.svg)](https://doi.org/10.5281/zenodo.15045098)
 
 ## Context and Motivation
 
